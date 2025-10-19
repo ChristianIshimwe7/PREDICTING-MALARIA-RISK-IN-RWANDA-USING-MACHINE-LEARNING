@@ -1,8 +1,8 @@
-#PROJECT PLAN: PREDICTING MALARIA RISK IN RWANDA USING MACHINE LEARNING.
+PROJECT PLAN: PREDICTING MALARIA RISK IN RWANDA USING MACHINE LEARNING.
 
-#AUTHOR: Christian ISHIMWE/ African Leadership University Rwanda.
+AUTHOR: Christian ISHIMWE/ African Leadership University Rwanda.
 
-#E_MAIL: c.ishimwe7@alustudent.com
+E_MAIL: c.ishimwe7@alustudent.com
 
 Problem: Predicting malaria risk (high/low) in Rwandan communities using historical health and environmental data to support early interventions by the Rwanda Biomedical Centre (RBC).
 Why It Matters: Malaria remains a leading cause of morbidity in Rwanda, with 1.7M cases in 2022 (WHO). Predictive models can help target resources (e.g., bed nets, sprays) to high-risk areas, especially in rural regions.
